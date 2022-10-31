@@ -1,1 +1,1 @@
-#This is just a pretty dymmy projectq
+#This is just a pretty dymmy project
